@@ -1,0 +1,10 @@
+﻿dotnet ef migrations add updatePayment --project hotel-booking-data --startup-project hotel-booking-api
+
+dotnet ef database update --project hotel-booking-data --startup-project hotel-booking-api
+
+dotnet ef migrations remove --project hotel-booking-data --startup-project hotel-booking-api
+
+dotnet ef database update addLocationTables --project hotel-booking-data --startup-project hotel-booking-api
+dotnet ef migrations remove --project hotel-booking-data --startup-project hotel-booking-api
+
+dotnet watch --project hotel-booking-api

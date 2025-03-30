@@ -1,0 +1,325 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "H:\\THUCTAP\\PROJECT 2025\\Hotel-Management-Api\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8A7FEAC8-7E67-40FA-BD66-A4C37BD501BE}|hotel-booking-core\\hotel-booking-core.csproj|h:\\thuctap\\project 2025\\hotel-management-api\\hotel-booking-core\\services\\hotelservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A7FEAC8-7E67-40FA-BD66-A4C37BD501BE}|hotel-booking-core\\hotel-booking-core.csproj|solutionrelative:hotel-booking-core\\services\\hotelservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A7FEAC8-7E67-40FA-BD66-A4C37BD501BE}|hotel-booking-core\\hotel-booking-core.csproj|h:\\thuctap\\project 2025\\hotel-management-api\\hotel-booking-core\\interfaces\\iauthenticationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A7FEAC8-7E67-40FA-BD66-A4C37BD501BE}|hotel-booking-core\\hotel-booking-core.csproj|solutionrelative:hotel-booking-core\\interfaces\\iauthenticationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A7FEAC8-7E67-40FA-BD66-A4C37BD501BE}|hotel-booking-core\\hotel-booking-core.csproj|h:\\thuctap\\project 2025\\hotel-management-api\\hotel-booking-core\\services\\authenticationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A7FEAC8-7E67-40FA-BD66-A4C37BD501BE}|hotel-booking-core\\hotel-booking-core.csproj|solutionrelative:hotel-booking-core\\services\\authenticationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1741BA06-6A11-428D-ACE9-11DC612E0663}|hotel-booking-api\\hotel-booking-api.csproj|h:\\thuctap\\project 2025\\hotel-management-api\\hotel-booking-api\\controllers\\bookingcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1741BA06-6A11-428D-ACE9-11DC612E0663}|hotel-booking-api\\hotel-booking-api.csproj|solutionrelative:hotel-booking-api\\controllers\\bookingcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1741BA06-6A11-428D-ACE9-11DC612E0663}|hotel-booking-api\\hotel-booking-api.csproj|h:\\thuctap\\project 2025\\hotel-management-api\\hotel-booking-api\\text.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{1741BA06-6A11-428D-ACE9-11DC612E0663}|hotel-booking-api\\hotel-booking-api.csproj|solutionrelative:hotel-booking-api\\text.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A7FEAC8-7E67-40FA-BD66-A4C37BD501BE}|hotel-booking-core\\hotel-booking-core.csproj|h:\\thuctap\\project 2025\\hotel-management-api\\hotel-booking-core\\interfaces\\ibookingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A7FEAC8-7E67-40FA-BD66-A4C37BD501BE}|hotel-booking-core\\hotel-booking-core.csproj|solutionrelative:hotel-booking-core\\interfaces\\ibookingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A7FEAC8-7E67-40FA-BD66-A4C37BD501BE}|hotel-booking-core\\hotel-booking-core.csproj|h:\\thuctap\\project 2025\\hotel-management-api\\hotel-booking-core\\services\\bookingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A7FEAC8-7E67-40FA-BD66-A4C37BD501BE}|hotel-booking-core\\hotel-booking-core.csproj|solutionrelative:hotel-booking-core\\services\\bookingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F59285D-37C4-4CC0-AD34-C810C6DAB09A}|hotel-booking-dto\\hotel-booking-dto.csproj|h:\\thuctap\\project 2025\\hotel-management-api\\hotel-booking-dto\\bookingdtos\\getbookingdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F59285D-37C4-4CC0-AD34-C810C6DAB09A}|hotel-booking-dto\\hotel-booking-dto.csproj|solutionrelative:hotel-booking-dto\\bookingdtos\\getbookingdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D608D2D-60A0-45BA-BB49-0F8433368917}|hotel-booking-data\\hotel-booking-data.csproj|h:\\thuctap\\project 2025\\hotel-management-api\\hotel-booking-data\\repositories\\implementations\\bookingrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D608D2D-60A0-45BA-BB49-0F8433368917}|hotel-booking-data\\hotel-booking-data.csproj|solutionrelative:hotel-booking-data\\repositories\\implementations\\bookingrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69280627-66AF-4827-9F7C-DAFA42ADC651}|hotel-booking-utilities\\hotel-booking-utilities.csproj|h:\\thuctap\\project 2025\\hotel-management-api\\hotel-booking-utilities\\automapper\\automapperprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69280627-66AF-4827-9F7C-DAFA42ADC651}|hotel-booking-utilities\\hotel-booking-utilities.csproj|solutionrelative:hotel-booking-utilities\\automapper\\automapperprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D608D2D-60A0-45BA-BB49-0F8433368917}|hotel-booking-data\\hotel-booking-data.csproj|h:\\thuctap\\project 2025\\hotel-management-api\\hotel-booking-data\\seeder\\hotelseeder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D608D2D-60A0-45BA-BB49-0F8433368917}|hotel-booking-data\\hotel-booking-data.csproj|solutionrelative:hotel-booking-data\\seeder\\hotelseeder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D608D2D-60A0-45BA-BB49-0F8433368917}|hotel-booking-data\\hotel-booking-data.csproj|h:\\thuctap\\project 2025\\hotel-management-api\\hotel-booking-data\\contexts\\hotelcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D608D2D-60A0-45BA-BB49-0F8433368917}|hotel-booking-data\\hotel-booking-data.csproj|solutionrelative:hotel-booking-data\\contexts\\hotelcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1DB2FFF9-9D07-4BDB-B167-136F1B5A2D3F}|hotel-booking-models\\hotel-booking-models.csproj|h:\\thuctap\\project 2025\\hotel-management-api\\hotel-booking-models\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1DB2FFF9-9D07-4BDB-B167-136F1B5A2D3F}|hotel-booking-models\\hotel-booking-models.csproj|solutionrelative:hotel-booking-models\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F59285D-37C4-4CC0-AD34-C810C6DAB09A}|hotel-booking-dto\\hotel-booking-dto.csproj|h:\\thuctap\\project 2025\\hotel-management-api\\hotel-booking-dto\\bookingdtos\\getallbookingdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F59285D-37C4-4CC0-AD34-C810C6DAB09A}|hotel-booking-dto\\hotel-booking-dto.csproj|solutionrelative:hotel-booking-dto\\bookingdtos\\getallbookingdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F59285D-37C4-4CC0-AD34-C810C6DAB09A}|hotel-booking-dto\\hotel-booking-dto.csproj|h:\\thuctap\\project 2025\\hotel-management-api\\hotel-booking-dto\\filterbookingdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F59285D-37C4-4CC0-AD34-C810C6DAB09A}|hotel-booking-dto\\hotel-booking-dto.csproj|solutionrelative:hotel-booking-dto\\filterbookingdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69280627-66AF-4827-9F7C-DAFA42ADC651}|hotel-booking-utilities\\hotel-booking-utilities.csproj|h:\\thuctap\\project 2025\\hotel-management-api\\hotel-booking-utilities\\pagination\\paginator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69280627-66AF-4827-9F7C-DAFA42ADC651}|hotel-booking-utilities\\hotel-booking-utilities.csproj|solutionrelative:hotel-booking-utilities\\pagination\\paginator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69280627-66AF-4827-9F7C-DAFA42ADC651}|hotel-booking-utilities\\hotel-booking-utilities.csproj|h:\\thuctap\\project 2025\\hotel-management-api\\hotel-booking-utilities\\pagination\\pageresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69280627-66AF-4827-9F7C-DAFA42ADC651}|hotel-booking-utilities\\hotel-booking-utilities.csproj|solutionrelative:hotel-booking-utilities\\pagination\\pageresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69280627-66AF-4827-9F7C-DAFA42ADC651}|hotel-booking-utilities\\hotel-booking-utilities.csproj|h:\\thuctap\\project 2025\\hotel-management-api\\hotel-booking-utilities\\userroles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69280627-66AF-4827-9F7C-DAFA42ADC651}|hotel-booking-utilities\\hotel-booking-utilities.csproj|solutionrelative:hotel-booking-utilities\\userroles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D608D2D-60A0-45BA-BB49-0F8433368917}|hotel-booking-data\\hotel-booking-data.csproj|h:\\thuctap\\project 2025\\hotel-management-api\\hotel-booking-data\\repositories\\abstractions\\ibookingrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D608D2D-60A0-45BA-BB49-0F8433368917}|hotel-booking-data\\hotel-booking-data.csproj|solutionrelative:hotel-booking-data\\repositories\\abstractions\\ibookingrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 234,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HotelService.cs",
+              "DocumentMoniker": "H:\\THUCTAP\\PROJECT 2025\\Hotel-Management-Api\\hotel-booking-core\\Services\\HotelService.cs",
+              "RelativeDocumentMoniker": "hotel-booking-core\\Services\\HotelService.cs",
+              "ToolTip": "H:\\THUCTAP\\PROJECT 2025\\Hotel-Management-Api\\hotel-booking-core\\Services\\HotelService.cs",
+              "RelativeToolTip": "hotel-booking-core\\Services\\HotelService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-30T16:38:09.866Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IAuthenticationService.cs",
+              "DocumentMoniker": "H:\\THUCTAP\\PROJECT 2025\\Hotel-Management-Api\\hotel-booking-core\\Interfaces\\IAuthenticationService.cs",
+              "RelativeDocumentMoniker": "hotel-booking-core\\Interfaces\\IAuthenticationService.cs",
+              "ToolTip": "H:\\THUCTAP\\PROJECT 2025\\Hotel-Management-Api\\hotel-booking-core\\Interfaces\\IAuthenticationService.cs",
+              "RelativeToolTip": "hotel-booking-core\\Interfaces\\IAuthenticationService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-30T16:20:28.803Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AuthenticationService.cs",
+              "DocumentMoniker": "H:\\THUCTAP\\PROJECT 2025\\Hotel-Management-Api\\hotel-booking-core\\Services\\AuthenticationService.cs",
+              "RelativeDocumentMoniker": "hotel-booking-core\\Services\\AuthenticationService.cs",
+              "ToolTip": "H:\\THUCTAP\\PROJECT 2025\\Hotel-Management-Api\\hotel-booking-core\\Services\\AuthenticationService.cs",
+              "RelativeToolTip": "hotel-booking-core\\Services\\AuthenticationService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-30T16:20:25.16Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "HotelSeeder.cs",
+              "DocumentMoniker": "H:\\THUCTAP\\PROJECT 2025\\Hotel-Management-Api\\hotel-booking-data\\Seeder\\HotelSeeder.cs",
+              "RelativeDocumentMoniker": "hotel-booking-data\\Seeder\\HotelSeeder.cs",
+              "ToolTip": "H:\\THUCTAP\\PROJECT 2025\\Hotel-Management-Api\\hotel-booking-data\\Seeder\\HotelSeeder.cs",
+              "RelativeToolTip": "hotel-booking-data\\Seeder\\HotelSeeder.cs",
+              "ViewState": "AgIAADkAAAAAAAAAAAAowIUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-29T08:21:38.211Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "HotelContext.cs",
+              "DocumentMoniker": "H:\\THUCTAP\\PROJECT 2025\\Hotel-Management-Api\\hotel-booking-data\\Contexts\\HotelContext.cs",
+              "RelativeDocumentMoniker": "hotel-booking-data\\Contexts\\HotelContext.cs",
+              "ToolTip": "H:\\THUCTAP\\PROJECT 2025\\Hotel-Management-Api\\hotel-booking-data\\Contexts\\HotelContext.cs",
+              "RelativeToolTip": "hotel-booking-data\\Contexts\\HotelContext.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAA2wBYAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-29T08:13:12.852Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "BaseEntity.cs",
+              "DocumentMoniker": "H:\\THUCTAP\\PROJECT 2025\\Hotel-Management-Api\\hotel-booking-models\\BaseEntity.cs",
+              "RelativeDocumentMoniker": "hotel-booking-models\\BaseEntity.cs",
+              "ToolTip": "H:\\THUCTAP\\PROJECT 2025\\Hotel-Management-Api\\hotel-booking-models\\BaseEntity.cs",
+              "RelativeToolTip": "hotel-booking-models\\BaseEntity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-29T08:04:02.017Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Paginator.cs",
+              "DocumentMoniker": "H:\\THUCTAP\\PROJECT 2025\\Hotel-Management-Api\\hotel-booking-utilities\\Pagination\\Paginator.cs",
+              "RelativeDocumentMoniker": "hotel-booking-utilities\\Pagination\\Paginator.cs",
+              "ToolTip": "H:\\THUCTAP\\PROJECT 2025\\Hotel-Management-Api\\hotel-booking-utilities\\Pagination\\Paginator.cs",
+              "RelativeToolTip": "hotel-booking-utilities\\Pagination\\Paginator.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAB0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-28T19:39:20.324Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "PageResult.cs",
+              "DocumentMoniker": "H:\\THUCTAP\\PROJECT 2025\\Hotel-Management-Api\\hotel-booking-utilities\\Pagination\\PageResult.cs",
+              "RelativeDocumentMoniker": "hotel-booking-utilities\\Pagination\\PageResult.cs",
+              "ToolTip": "H:\\THUCTAP\\PROJECT 2025\\Hotel-Management-Api\\hotel-booking-utilities\\Pagination\\PageResult.cs",
+              "RelativeToolTip": "hotel-booking-utilities\\Pagination\\PageResult.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-28T19:38:56.335Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IBookingService.cs",
+              "DocumentMoniker": "H:\\THUCTAP\\PROJECT 2025\\Hotel-Management-Api\\hotel-booking-core\\Interfaces\\IBookingService.cs",
+              "RelativeDocumentMoniker": "hotel-booking-core\\Interfaces\\IBookingService.cs",
+              "ToolTip": "H:\\THUCTAP\\PROJECT 2025\\Hotel-Management-Api\\hotel-booking-core\\Interfaces\\IBookingService.cs",
+              "RelativeToolTip": "hotel-booking-core\\Interfaces\\IBookingService.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA8AAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-28T13:17:07.402Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "FilterBookingDto.cs",
+              "DocumentMoniker": "H:\\THUCTAP\\PROJECT 2025\\Hotel-Management-Api\\hotel-booking-dto\\FilterBookingDto.cs",
+              "RelativeDocumentMoniker": "hotel-booking-dto\\FilterBookingDto.cs",
+              "ToolTip": "H:\\THUCTAP\\PROJECT 2025\\Hotel-Management-Api\\hotel-booking-dto\\FilterBookingDto.cs",
+              "RelativeToolTip": "hotel-booking-dto\\FilterBookingDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-28T13:02:44.031Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "GetAllBookingDto.cs",
+              "DocumentMoniker": "H:\\THUCTAP\\PROJECT 2025\\Hotel-Management-Api\\hotel-booking-dto\\BookingDtos\\GetAllBookingDto.cs",
+              "RelativeDocumentMoniker": "hotel-booking-dto\\BookingDtos\\GetAllBookingDto.cs",
+              "ToolTip": "H:\\THUCTAP\\PROJECT 2025\\Hotel-Management-Api\\hotel-booking-dto\\BookingDtos\\GetAllBookingDto.cs",
+              "RelativeToolTip": "hotel-booking-dto\\BookingDtos\\GetAllBookingDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-28T08:49:53.504Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "GetBookingDto.cs",
+              "DocumentMoniker": "H:\\THUCTAP\\PROJECT 2025\\Hotel-Management-Api\\hotel-booking-dto\\BookingDtos\\GetBookingDto.cs",
+              "RelativeDocumentMoniker": "hotel-booking-dto\\BookingDtos\\GetBookingDto.cs",
+              "ToolTip": "H:\\THUCTAP\\PROJECT 2025\\Hotel-Management-Api\\hotel-booking-dto\\BookingDtos\\GetBookingDto.cs",
+              "RelativeToolTip": "hotel-booking-dto\\BookingDtos\\GetBookingDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-28T07:48:01.646Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AutoMapperProfile.cs",
+              "DocumentMoniker": "H:\\THUCTAP\\PROJECT 2025\\Hotel-Management-Api\\hotel-booking-utilities\\AutoMapper\\AutoMapperProfile.cs",
+              "RelativeDocumentMoniker": "hotel-booking-utilities\\AutoMapper\\AutoMapperProfile.cs",
+              "ToolTip": "H:\\THUCTAP\\PROJECT 2025\\Hotel-Management-Api\\hotel-booking-utilities\\AutoMapper\\AutoMapperProfile.cs",
+              "RelativeToolTip": "hotel-booking-utilities\\AutoMapper\\AutoMapperProfile.cs",
+              "ViewState": "AgIAAM0AAAAAAAAAAAAQwOkAAABVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-28T07:32:43.71Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "IBookingRepository.cs",
+              "DocumentMoniker": "H:\\THUCTAP\\PROJECT 2025\\Hotel-Management-Api\\hotel-booking-data\\Repositories\\Abstractions\\IBookingRepository.cs",
+              "RelativeDocumentMoniker": "hotel-booking-data\\Repositories\\Abstractions\\IBookingRepository.cs",
+              "ToolTip": "H:\\THUCTAP\\PROJECT 2025\\Hotel-Management-Api\\hotel-booking-data\\Repositories\\Abstractions\\IBookingRepository.cs",
+              "RelativeToolTip": "hotel-booking-data\\Repositories\\Abstractions\\IBookingRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwA8AAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-28T07:23:31.563Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "UserRoles.cs",
+              "DocumentMoniker": "H:\\THUCTAP\\PROJECT 2025\\Hotel-Management-Api\\hotel-booking-utilities\\UserRoles.cs",
+              "RelativeDocumentMoniker": "hotel-booking-utilities\\UserRoles.cs",
+              "ToolTip": "H:\\THUCTAP\\PROJECT 2025\\Hotel-Management-Api\\hotel-booking-utilities\\UserRoles.cs",
+              "RelativeToolTip": "hotel-booking-utilities\\UserRoles.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAA+wBgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-27T17:19:36.893Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "BookingService.cs",
+              "DocumentMoniker": "H:\\THUCTAP\\PROJECT 2025\\Hotel-Management-Api\\hotel-booking-core\\Services\\BookingService.cs",
+              "RelativeDocumentMoniker": "hotel-booking-core\\Services\\BookingService.cs",
+              "ToolTip": "H:\\THUCTAP\\PROJECT 2025\\Hotel-Management-Api\\hotel-booking-core\\Services\\BookingService.cs",
+              "RelativeToolTip": "hotel-booking-core\\Services\\BookingService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-27T17:08:23.151Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "BookingRepository.cs",
+              "DocumentMoniker": "H:\\THUCTAP\\PROJECT 2025\\Hotel-Management-Api\\hotel-booking-data\\Repositories\\Implementations\\BookingRepository.cs",
+              "RelativeDocumentMoniker": "hotel-booking-data\\Repositories\\Implementations\\BookingRepository.cs",
+              "ToolTip": "H:\\THUCTAP\\PROJECT 2025\\Hotel-Management-Api\\hotel-booking-data\\Repositories\\Implementations\\BookingRepository.cs",
+              "RelativeToolTip": "hotel-booking-data\\Repositories\\Implementations\\BookingRepository.cs",
+              "ViewState": "AgIAACgAAAAAAAAAAAAqwDwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-27T17:06:32.085Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "text.txt",
+              "DocumentMoniker": "H:\\THUCTAP\\PROJECT 2025\\Hotel-Management-Api\\hotel-booking-api\\text.txt",
+              "RelativeDocumentMoniker": "hotel-booking-api\\text.txt",
+              "ToolTip": "H:\\THUCTAP\\PROJECT 2025\\Hotel-Management-Api\\hotel-booking-api\\text.txt",
+              "RelativeToolTip": "hotel-booking-api\\text.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-03-27T16:52:16.557Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "BookingController.cs",
+              "DocumentMoniker": "H:\\THUCTAP\\PROJECT 2025\\Hotel-Management-Api\\hotel-booking-api\\Controllers\\BookingController.cs",
+              "RelativeDocumentMoniker": "hotel-booking-api\\Controllers\\BookingController.cs",
+              "ToolTip": "H:\\THUCTAP\\PROJECT 2025\\Hotel-Management-Api\\hotel-booking-api\\Controllers\\BookingController.cs",
+              "RelativeToolTip": "hotel-booking-api\\Controllers\\BookingController.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAqwBMAAABWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-27T14:41:17.629Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
